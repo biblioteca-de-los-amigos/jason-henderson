@@ -37,7 +37,7 @@ un pueblo necesitado de una justicia que superara la de los escribas y fariseos.
 Y todo esto fue dicho a hombres y mujeres que poseían las leyes
 de Dios y se consideraban Sus únicos verdaderos adoradores.
 
-Así vino Jesucristo en la carne, y no fue en absoluto lo que ellos esperaban.
+_Así_ vino Jesucristo en la carne, y no fue en absoluto lo que ellos esperaban.
 Muchos de ellos amaban los milagros que sanaban sus cuerpos y llenaban sus estómagos,
 pero no les agradaban Sus palabras,
 y se ofendían en gran manera por Su misión. "`Linaje de Abraham somos,
@@ -84,10 +84,10 @@ Han pasado dos mil años,
 y la gente ha llegado a estar muy familiarizada y
 demasiado cómoda con las palabras en rojo de la Biblia.
 Pero es fácil amar Sus dichos y, sin embargo,
-aborrecer Su naturaleza cuando aparece en nuestro corazón como luz.
+aborrecer Su _naturaleza_ cuando aparece en nuestro corazón como luz.
 Es fácil disfrutar las historias y las canciones acerca de Jesús,
 maravillarnos ante Su sabiduría y Sus milagros, e incluso creer todas Sus palabras,
-pero cuando la luz de Su vida resplandece en el corazón, manifestando egoísmo, orgullo,
+pero cuando _la luz de Su vida_ resplandece en el corazón, manifestando egoísmo, orgullo,
 palabras vanas y malos deseos,
 no "`amamos Su venida,`" sino que más bien "`amamos las tinieblas más que la luz.`"
 Estamos seguros de que nunca habríamos estado entre
@@ -102,10 +102,15 @@ Siempre ha habido creyentes que tienen celo por Dios y por la justicia,
 pero que no _se sujetan_ a la justicia que viene de Dios.
 Hablando de sus compatriotas según la carne, Pablo dice:
 
-Porque yo les doy testimonio; de que ellos tienen celo de Dios, mas no según conocimiento.
-Porque ignorando la justicia de Dios, y procurando establecer su propia justicia,
-no se han sujetado a la justicia de Dios.^
+[.embedded-content-document.letter]
+--
+
+_Porque yo les doy testimonio; de que ellos tienen celo de Dios, mas no según conocimiento.
+Porque ignorando la justicia de Dios, y procurando establecer su propia
+justicia, [.underline]#no se han sujetado a la justicia de Dios#_.^
 footnote:[Romanos 10:2-3 RV1602P]
+
+--
 
 Te confieso abiertamente que yo fui uno de ellos,
 aun cuando trabajaba como líder en la iglesia.
@@ -185,8 +190,8 @@ footnote:[1 Reyes 19:12]
 a ese inquietante sentimiento que punza nuestro corazón cuando nuestra
 vida y nuestras decisiones contradicen la naturaleza de Dios.
 Pero la verdad es--y todos los que alguna vez hayan obedecido la luz testificará conmigo--que
-estas pequeñas convicciones y correcciones son los comienzos del poder de Dios,
-las primeras apariciones de la "`luz de la vida.`"
+estas pequeñas convicciones y correcciones _son los comienzos del poder de Dios,
+las primeras apariciones de la "`luz de la vida.`"_
 
 ¿Dirá alguien que estas "`pequeñeces`" no tienen nada que ver con su vida espiritual,
 cuando está claro que tienen todo que ver con su corazón? ¿No es Dios el Dios del corazón?
@@ -205,8 +210,9 @@ que murió a la vida de Dios--el hombre del que Dios testificó:
 "`el intento del corazón del hombre es malo desde su juventud,`"^
 footnote:[Génesis 8:21]
 y "`todo designio de los pensamientos del corazón
-de ellos es de continuo solamente el mal`"^
-footnote:[Génesis 6:5]? ¿O dirás que estas convicciones contra el mal
+de ellos es de continuo solamente el mal`"?^
+footnote:[Génesis 6:5]
+¿O dirás que estas convicciones contra el mal
 y impulsos hacia la justicia provienen del acusador de los hermanos,
 el enemigo del alma del hombre?
 ¿Está el reino de Satanás dividido contra sí mismo?
@@ -226,7 +232,7 @@ ninguna condenación hay para los que están en Cristo Jesús,
 los que no andan conforme a la carne, sino conforme al Espíritu.`"
 No hay condenación para aquellos que andan conforme al Espíritu.
 ¡Pero,
-por supuesto que sí hay un sentido de condenación y desaprobación cuando aquellos
+_por supuesto_ que sí hay un sentido de condenación y desaprobación cuando aquellos
 que han recibido el don del Espíritu continúan andando conforme a la carne!
 Por supuesto que Dios nos permitirá sentir Su enemistad y Su desacuerdo
 con la naturaleza que es contraria a Él en todo sentido--una naturaleza
@@ -234,7 +240,7 @@ de la que se nos dice que "`codicia contra el Espíritu,`"^
 footnote:[Gálatas 5:17 RVG]
 y es "`enemistad contra Dios.`"^
 footnote:[Romanos 8:7]
-Los sentimientos de rechazo dirigidos al creyente en lugar de al pecado,
+Los sentimientos de rechazo dirigidos _al creyente_ en lugar de _al pecado,_
 acompañados de acusaciones de ser un caso perdido, un fracaso o una decepción,
 son a menudo obra del "`acusador de los hermanos.`"^
 footnote:[Apocalipsis 12:10]
@@ -290,7 +296,7 @@ convicciones en tantas cosas "`pequeñas`" que apagan,
 contristan y resisten el Espíritu de santidad,
 que experimentamos tan poco crecimiento en el poder del evangelio.
 
-Estas no son "`pequeñeces,`" y nuestros intentos de rendirlas nos mostrarán
+Estas _no son_ "`pequeñeces,`" y nuestros intentos de rendirlas nos mostrarán
 cuán grande es el lugar que ocupan en nuestro corazón. No hay tal cosa
 como una "`cosa pequeña.`" Solo hay cosas de arriba y cosas de abajo.
 Hay cosas que están en el Espíritu,
@@ -309,7 +315,7 @@ footnote:[Zacarías 4:10]
 y perdemos la venida del poder del evangelio.
 
 La razón principal por la que muchos permanecen extraños al poder transformador
-de Dios es que sus corazones no se someten humilde y continuamente a las
+de Dios es que sus corazones no se someten _humilde_ y _continuamente_ a las
 primeras y más pequeñas manifestaciones de Su poder--la Luz de Jesucristo.
 No se apartan fielmente del mal, ni rinden su voluntad al bien que ya son capaces de ver.
 Y puesto que no son "`fieles en lo muy poco,`"^
