@@ -139,7 +139,7 @@ con otra naturaleza.
 
 Adán perdió la imagen y semejanza de Dios,
 y en Génesis capítulo 5 se nos dice que después de que "`Adán vivió ciento treinta años,
-engendró un hijo a su semejanza, conforme a su imagen, y llamó su nombre Set.`"
+engendró un hijo _a su semejanza, conforme a su imagen,_ y llamó su nombre Set.`"
 Aquí había una nueva imagen y semejanza;
 era como un diamante duro y frío sin la luz del sol.
 
@@ -152,24 +152,33 @@ y de esto dan testimonio las Escrituras en los términos
 más claros y contundentes que el lenguaje puede expresar.
 Los siguientes son solo unos ejemplos:
 
-Génesis 6:5 -- Y vio Jehová que la maldad de los hombres era mucha en la tierra,
+[.numbered-group]
+====
+
+[.numbered]
+_Génesis 6:5 -- Y vio Jehová que la maldad de los hombres era mucha en la tierra,
 y que todo designio de los pensamientos del corazón
-de ellos era de continuo solamente el mal.
+de ellos era de continuo solamente el mal._
 
-Génesis 8:21 -- El intento del corazón del hombre es malo desde su juventud.
+[.numbered]
+_Génesis 8:21 -- El intento del corazón del hombre es malo desde su juventud._
 
-Jeremías 17:9 -- Engañoso es el corazón más que todas las cosas, y perverso;
-¿quién lo conocerá?
+[.numbered]
+_Jeremías 17:9 -- Engañoso es el corazón más que todas las cosas, y perverso;
+¿quién lo conocerá?_
 
-Juan 8:44 -- Vosotros sois de vuestro padre el diablo,
-y los deseos de vuestro padre queréis hacer.
+[.numbered]
+_Juan 8:44 -- Vosotros sois de vuestro padre el diablo,
+y los deseos de vuestro padre queréis hacer._
 
-Romanos 3:10-12 -- Como está escrito: No hay justo, ni aun uno.
+[.numbered]
+_Romanos 3:10-12 -- Como está escrito: No hay justo, ni aun uno.
 No hay quien entienda, no hay quien busque a Dios.
 Todos se desviaron del camino, a una se hicieron inútiles; no hay quien haga lo bueno,
-no hay ni siquiera uno.
+no hay ni siquiera uno._
 
-Efesios 2:1-3 -- Y Él os dio vida a vosotros,
+[.numbered]
+_Efesios 2:1-3 -- Y Él os dio vida a vosotros,
 que estabais muertos en vuestros delitos y pecados,
 en los cuales anduvisteis en otro tiempo, conforme a la corriente de este mundo,
 conforme al príncipe de la potestad del aire,
@@ -177,7 +186,9 @@ el espíritu que ahora opera en los hijos de desobediencia;
 entre los cuales también todos nosotros vivimos en otro tiempo;
 en la concupiscencia de nuestra carne,
 haciendo la voluntad de la carne y de los pensamientos,
-y éramos por naturaleza hijos de ira, lo mismo que los demás.
+y éramos por naturaleza hijos de ira, lo mismo que los demás._
+
+====
 
 ¿Dirá alguien que estos versículos describen la imagen y semejanza de Dios?
 Estos, y muchos otros pasajes similares,
@@ -212,35 +223,46 @@ No es una idea ni una doctrina que deba enseñarse y creerse con la mente.
 Es un cambio de naturaleza,
 una condición patente que se muestra en todo lo que el hombre desea y hace.
 Algo terrible ocurrió en el corazón del hombre.
-Murió a la luz y al Espíritu de Dios y se convirtió en algo que no era antes.
+_Murió_ a la luz y al Espíritu de Dios y se convirtió en algo que no era antes.
 Y en esta condición,
 se manifiesta claramente que lo único que el hombre
 necesita hacer para corromperse aún más,
 para llevar una vida llena de remordimientos,
-y traer dolor sobre su familia y amigos es ¡simplemente
-seguir la inclinación de sus propios pensamientos y deseos!
+y traer dolor sobre su familia y amigos es _¡simplemente
+seguir la inclinación de sus propios pensamientos y deseos!_
 En Números 15:39 a Israel se le mandó: "`No sigáis vuestro corazón ni vuestros ojos,
 tras los cuales os habéis prostituido.`"^
 footnote:[LBLA]
+
+[.offset]
 Considera también estos versículos de Jeremías:
 
-11:7-8 -- Porque solemnemente protesté a vuestros padres el día
+[.numbered-group]
+====
+
+[.numbered]
+_11:7-8 -- Porque solemnemente protesté a vuestros padres el día
 que los hice subir de la tierra de Egipto hasta el día de hoy,
 madrugando, protestando y diciendo: Oíd mi voz.
 Pero no obedecieron, ni inclinaron su oído,
-antes se fueron cada uno tras la imaginación de su malvado corazón.
+antes se fueron cada uno tras la imaginación de su malvado corazón._
 
-18:11-12 -- Conviértase ahora cada uno de su mal camino,
+[.numbered]
+_18:11-12 -- Conviértase ahora cada uno de su mal camino,
 y mejorad vuestros caminos y vuestras obras.
 Y dijeron: Es por demás; porque en pos de nuestras imaginaciones hemos de ir,
-y cada uno de nosotros ha de hacer el pensamiento de su malvado corazón.
+y cada uno de nosotros ha de hacer el pensamiento de su malvado corazón._
 
-3:17 -- En aquel tiempo llamarán a Jerusalén: Trono de Jehová,
+[.numbered]
+_3:17 -- En aquel tiempo llamarán a Jerusalén: Trono de Jehová,
 y todas las naciones se unirán a ella en el nombre de Jehová en Jerusalén;
-y no andarán más tras la dureza de su malvado corazón.
+y no andarán más tras la dureza de su malvado corazón._
 
-6:19 -- Oye, tierra.
-He aquí yo traigo mal sobre este pueblo, el fruto de sus pensamientos.
+[.numbered]
+_6:19 -- Oye, tierra.
+He aquí yo traigo mal sobre este pueblo, el fruto de sus pensamientos._
+
+====
 
 Seguir sus propios pensamientos hace al hombre cada vez más malo.
 ¿Qué nos dice esto acerca de nosotros mismos?
@@ -281,11 +303,11 @@ Ya no lleva la imagen y semejanza de su bondadoso Creador.
 Ha caído en una condición que es peor de lo que está dispuesto a reconocer,
 y allí se esconde de la luz porque sus obras son malas.
 
-Estas palabras fuertes no describen a otras personas;
-describen a todas las personas que no han sido hechas libres
+Estas palabras fuertes no describen a _otras_ personas;
+describen a _todas_ las personas que no han sido hechas libres
 de esta naturaleza por la "`obra eficaz`" del evangelio.
-Esta es la razón por la que te pregunté si conocías el poder del evangelio.
-Las palabras del evangelio no pueden salvar de este problema ni sanar esta enfermedad.
+Esta es la razón por la que te pregunté si conocías el _poder_ del evangelio.
+Las _palabras_ del evangelio no pueden salvar de este problema ni sanar esta enfermedad.
 Pero el poder del evangelio puede "`hacer morir las obras de la carne`"^
 footnote:[Romanos 8:13]
 y dar a luz una nueva creación. El evangelio de Jesucristo no solo te da un nuevo nombre;

@@ -32,28 +32,39 @@ circuncida el corazón, purifica la conciencia y transforma el alma en templo de
 Estos siguen siendo extraños al evangelio,
 no importa cuánto tiempo hayan creído o celebrado las palabras.
 
+[.offset]
 En su primera carta a la iglesia, Pedro hace la siguiente declaración:
 
-Habiendo purificado vuestras almas en la obediencia de la verdad, mediante el Espíritu,
+[.embedded-content-document.letter]
+--
+
+_Habiendo purificado vuestras almas en la obediencia de la verdad, mediante el Espíritu,
 para el amor fraternal no fingido, amaos unos a otros entrañablemente, de corazón puro;
 siendo renacidos, no de simiente corruptible, sino de incorruptible,
 por la palabra de Dios que vive y permanece para siempre.
 "`Porque toda carne es como la hierba,
 y toda la gloria del hombre como la flor de la hierba.
 La hierba se seca, y la flor se cae; mas la palabra del Señor permanece para siempre.`"
-Y ésta es la palabra que _por el evangelio_ os ha sido predicada.^
+Y [.underline]#ésta es la palabra que por el evangelio os ha sido predicada#_.^
 footnote:[1 Pedro 1:22-25 RVG]
+
+--
 
 Hay mucho aquí que vale la pena notar,
 pero destacaré unas pocas cosas importantes a modo de introducción a este tema.
 
-Primero: Leemos que aquellos que habían"`renacido, no de simiente corruptible,
+[.numbered-group]
+====
+
+[.numbered]
+_Primero:_ Leemos que aquellos que habían"`renacido, no de simiente corruptible,
 sino de incorruptible,
 por la palabra de Dios que vive y permanece para siempre,`"
 habían así purificado sus almas en la obediencia a la verdad,
 y habían sido capacitados para amarse unos a otros entrañablemente con corazón puro.
 
-Segundo: Vemos que aquello que ha causado este nacimiento en ellos,
+[.numbered]
+_Segundo:_ Vemos que aquello que ha causado este nacimiento en ellos,
 y esta purificación de ellos,
 y que ha permitido que el amor celestial fluya sin impedimento,
 es una _Simiente o Palabra_ incorruptible.
@@ -61,7 +72,8 @@ Es algo imperecedero, una Palabra viva,
 que no es como la hierba ni como las flores del campo que se marchitan,
 sino más bien un poder inmortal que permanece para siempre.
 
-Tercero: Luego leemos, en palabras muy claras y directas,
+[.numbered]
+_Tercero:_ Luego leemos, en palabras muy claras y directas,
 que la predicación del evangelio tenía como propósito
 llevar a un encuentro con esta Palabra viva:
 "`Y ésta es la palabra que por el evangelio os ha sido predicada.`"
@@ -69,6 +81,8 @@ Es decir, mediante la predicación de palabras,
 una Palabra eterna de vida y de poder--de la cual el hombre debe nacer,
 y mediante la cual debe ser purificado para un amor
 no fingido--fue anunciada o declarada a los hombres.
+
+====
 
 Es evidente por esta Escritura (como por muchas otras también) que sería
 completamente posible oír un anuncio de las palabras del evangelio,
@@ -95,7 +109,7 @@ o creemos las palabras sin permanecer en la Palabra viva,
 entonces solo hemos hallado la cáscara del evangelio,
 y nos hemos quedado cortos del núcleo.
 Esto mismo fue declarado por Cristo a aquellos que ya habían comenzado a creer en Él:
-"`Dijo entonces Jesús a los judíos que habían creído en él:
+"`Dijo entonces Jesús a los judíos _que habían creído en él:_
 Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos;
 y conoceréis la verdad, y la verdad os hará libres.^
 footnote:[Juan 8:31-32]
@@ -108,7 +122,7 @@ en el versículo 13 de la misma carta dice:
 "`Por lo cual nosotros también sin cesar damos gracias a Dios,
 porque cuando recibisteis la palabra de Dios que oísteis de nosotros,
 la recibisteis no como palabra de hombres, sino como es en verdad, la palabra de Dios,
-la cual también "`obra eficazmente en vosotros los que creéis.`"
+la cual también "`_obra eficazmente_ en vosotros los que creéis.`"
 
 Es esta "`obra eficaz`" lo que quiero que consideres.
 Y de nuevo,
