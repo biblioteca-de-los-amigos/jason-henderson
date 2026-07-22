@@ -1,4 +1,4 @@
-== Una Ley Escrita en Tablas
+== Una ley escrita en tablas
 
 En Gálatas 3:19 Pablo escribe: "`¿Para qué entonces, sirve la ley?
 Fue añadida por causa de las transgresiones,
@@ -57,7 +57,7 @@ la ley era la forma y descripción externas de una naturaleza e
 imagen internas que el hombre no podía generar por sí mismo.
 
 Es de suma importancia que comprendamos que esta ley escrita de justicia no era
-en absoluto contraria a la ley de vida que una vez reinó en el alma del hombre.
+en absoluto _contraria_ a la ley de vida que una vez reinó en el alma del hombre.
 Hago hincapié en este punto porque es común oír a
 cristianos hablar de la ley de manera despectiva,
 o presentarla como enemiga del evangelio.
@@ -95,28 +95,36 @@ de la ley, y de la "`condenación`"^
 footnote:[2 Corintios 3:9]
 de la ley,
 estas expresiones no se usan porque la ley misma fuera defectuosa o perjudicial.
-Más bien, porque la carne es defectuosa y el pecado es perjudicial,
+Más bien, porque la _carne_ es defectuosa y el _pecado_ es perjudicial,
 y porque la ley escrita no podía hacer más que poner al descubierto
 y condenar la raíz del pecado y sus frutos en el hombre.
 
 Pablo corrige precisamente este malentendido en varios pasajes de sus cartas.
 Por ejemplo:
 
-Romanos 7:7 ¿Qué diremos entonces?
+[.embedded-content-document]
+--
+
+[.offset]
+__Romanos 7:7 ¿Qué diremos entonces?
 ¿Es pecado la ley?
 ¡En ninguna manera!
-Al contrario, yo no hubiera conocido el pecado a no ser por la ley.
+Al contrario, yo no hubiera conocido el pecado a no ser por la ley.__
 
-Gálatas 3:21 ¿Luego la ley es contraria a las promesas de Dios?
-¡En ninguna manera!
+[.offset]
+__Gálatas 3:21 ¿Luego la ley es contraria a las promesas de Dios?
+¡En ninguna manera!__
 
-Romanos 7:12-13 De manera que la ley a la verdad es santa, y el mandamiento es santo,
+[.offset]
+__Romanos 7:12-13 De manera que la ley a la verdad es santa, y el mandamiento es santo,
 y justo, y bueno.
 ¿Entonces lo que es bueno, vino a ser muerte para mí? ¡En ninguna manera!
 Pero el pecado, para mostrarse pecado, obró muerte en mí por lo que es bueno,
-a fin de que por el mandamiento, el pecado llegase a ser sobremanera pecaminoso.
+a fin de que por el mandamiento, el pecado llegase a ser sobremanera pecaminoso.__
 
-La ley escrita no era defectuosa; solo era débil, y por esta razón:
+--
+
+La ley escrita no era defectuosa; solo era _débil,_ y por esta razón:
 porque no podía poner fin a la ley del pecado y de la muerte en el hombre.
 En Romanos 8:3, Pablo dice que la ley "`era débil por la carne`". Es decir, por un lado,
 que la carne no podía cumplir la justicia descrita por la ley; y por otro,
@@ -162,11 +170,16 @@ Manifestaba las cosas malas y señalaba las mejores,
 pero ni en sí misma ni por sí misma tenía poder para _impartir_ lo que describía.
 Y esto es precisamente lo que Pablo nos dice en su carta a los Gálatas.
 
-Gálatas 3:21 ¿Es entonces la Ley contraria a las promesas de Dios?
+[.embedded-content-document]
+--
+
+__¿Es entonces la Ley contraria a las promesas de Dios?
 ¡De ningún modo!
-Porque si se hubiera dado una ley capaz de impartir vida,
-entonces la justicia ciertamente hubiera dependido de la ley.^
-footnote:[LBLA]
+Porque si se hubiera dado una ley [.underline]#capaz de impartir vida,#
+entonces la justicia ciertamente hubiera dependido de la ley.__^
+footnote:[Gálatas 3:21 LBLA]
+
+--
 
 La justicia habría sido alcanzada por la ley escrita
 si esta hubiera podido impartir la vida de Dios.
@@ -179,27 +192,35 @@ hombre--dio a Israel una ley escrita de mandamientos y ordenanzas,
 estableciéndola sobre Su pueblo como una luz y un estándar de justicia.
 Esto lo hizo por al menos las siguientes tres razones:
 
-Primero:
+[.numbered-group]
+====
+
+[.numbered]
+_Primero:_
 para que la descripción y el requisito de justicia en la ley escrita pusieran al descubierto,
 señalaran y condenaran la ley del pecado que operaba en el corazón del hombre.
 Esto está claramente declarado en multitud de Escrituras.^
 footnote:[Ver Romanos 3:20, 4:15, 5:13, 5:20, 7:5, 7:7-11, 7:13; 2 Corinthians 3:7-9;
 Galatians 3:19, 3:22]
 
-Segundo: para que, mediante el establecimiento de reglas y normas de justicia,
+[.numbered]
+_Segundo:_ para que, mediante el establecimiento de reglas y normas de justicia,
 ordenanzas y ceremonias de adoración, preceptos para lo puro y lo impuro,
 la carne y el Espíritu, etc.,
 Dios pudiera evitar que los portadores de Su testimonio se hundieran aún más
 en la degradación y corrupción que se había extendido en las naciones circundantes.^
 footnote:[Éxodo 19:15-16; Levítico 18:3-5, 24-30; Deuteronomio 19:9-14]
 
-Tercero: para que por estas dos primeras cosas--es decir,
+[.numbered]
+_Tercero:_ para que por estas dos primeras cosas--es decir,
 tanto la manifestación de la naturaleza de pecado, como las varias reglas, ordenanzas,
 ceremonias,
 tipos y sombras de la ley--Dios pudiera dirigir el
 corazón del hombre hacia la Simiente de vida,
 el nacimiento de la naturaleza celestial de Cristo,
 que podría traer de regreso al hombre bajo la ley de vida que había perdido en la caída.
+
+====
 
 Y cuando hablo de la ley externa dirigiendo el corazón del hombre hacia Cristo,
 la Simiente, no me refiero solamente a Su venida exterior como Hombre en Israel.

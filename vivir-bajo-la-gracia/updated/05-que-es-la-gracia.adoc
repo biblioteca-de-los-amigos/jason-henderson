@@ -22,7 +22,7 @@ Esta fue añadida a causa de las transgresiones,
 hasta que viniera la Simiente--cuya venida fue tanto exterior como interior.
 
 Vimos que el problema con esta ley externa, que fue dada al hombre en palabras,
-mandamientos y requisitos, era que no podía dar lo que describía. Describía la justicia,
+mandamientos y requisitos, era que no podía _dar_ lo que describía. Describía la justicia,
 el amor y la unión con Dios, pero no podía impartir esas cosas,
 y por eso era débil e incapaz de "`hacer perfectos`"^
 footnote:[Hebreos 7:19, 9:9, 10:1, 11:40]
@@ -48,7 +48,7 @@ y el alma ser unida a Aquel que fue levantado de entre los muertos,
 a fin de llevar fruto en justicia.
 De esta manera, la ley justa nunca es abolida, cambiada, olvidada ni abrogada.
 Más bien,
-es cumplida por la justicia de Cristo viviendo y
+es _cumplida_ por la justicia de Cristo viviendo y
 reinando en aquellos que andan por Su Espíritu.
 
 Habiendo comprendido estas cosas concernientes a la ley,
@@ -115,7 +115,7 @@ en realidad no tienen nada que ver con lo que las
 Escrituras afirman acerca de la gracia de Dios.
 Lo digo de manera completamente literal; no tienen ni una sola Escritura a su favor.
 Ya hemos demostrado que la ley justa de Dios no debe ser eliminada ni suavizada,
-sino cumplida por la misma naturaleza que ella describe.
+sino _cumplida_ por la misma naturaleza que ella describe.
 Las palabras de Jesús son claras: "`Ni una jota ni una tilde pasará de la ley,
 hasta que todo sea cumplido`". Y Pablo insiste en que el justo
 "`requisito de la ley`" debe ser "`cumplido en nosotros que no
@@ -158,16 +158,23 @@ demostrando lo que Él haría conforme a Su voluntad y por Su propia fuerza.
 
 === Una Medida de Su Plenitud
 
+[.offset]
 Consideren la siguiente Escritura:
 
-Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria,
-gloria como del unigénito del Padre), lleno de gracia y de verdad.
+[.embedded-content-document]
+--
+
+__Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria,
+gloria como del unigénito del Padre), [.underline]#lleno de gracia y de verdad.#
 Juan dio testimonio de él, y clamó diciendo: Éste es de quien yo decía:
-El que viene después de mí, es antes de mí; porque era primero que yo.
-Porque de su plenitud tomamos todos, y gracia sobre gracia.
+El que viene después de mí, es antes de mí;
+porque era primero que yo. [.underline]#Porque de su plenitud tomamos todos,
+y gracia sobre gracia.
 Pues la ley por medio de Moisés fue dada,
-pero la gracia y la verdad vinieron por medio de Jesucristo.^
+pero la gracia y la verdad vinieron por medio de Jesucristo.#__^
 footnote:[Juan 1:14-17]
+
+--
 
 Aquí Juan nos dice "`la ley por medio de Moisés fue dada`". Una vez más,
 ¿qué era esta ley que vino por Moisés? Era la descripción y el requisito
@@ -185,12 +192,12 @@ la sustancia y la Persona de justicia, dada para vivir,
 crecer y reinar en el alma del hombre._
 
 Recuerden las palabras de Pablo a los Gálatas:
-"`Porque si se hubiera dado una ley capaz de impartir vida,
+"`Porque si se hubiera dado una ley capaz de _impartir vida,_
 entonces la justicia ciertamente hubiera dependido de la ley`".^
 footnote:[Gálatas 3:21 NBLH]
 Hemos visto que la ley escrita no podía dar vida,
 y que por esa razón se la llama débil e ineficaz.
-La gracia, sin embargo, sí puede dar vida.
+La gracia, sin embargo, _sí puede_ dar vida.
 De hecho, ¡eso es precisamente la gracia!
 Es un don o medida de la vida y del poder de Aquel que es justicia.
 La gracia es una medida de Su plenitud.
@@ -206,12 +213,12 @@ Pero la venida,
 entrega o siembra misma de esta Simiente dadora de vida es lo que se llama gracia.
 Cristo, la Simiente, vino externamente, y también viene internamente.
 O, quizá, sea más preciso decir: Cristo, la Simiente,
-vino externamente para que pudiera venir internamente.
+vino externamente _para que_ pudiera venir internamente.
 La obra externa de Cristo abrió un camino nuevo y vivo por
 el que toda alma podía experimentar la obra interna de Cristo.
 
 Por tanto,
-lo primero y más importante que debemos comprender acerca de la
+lo _primero_ y más importante que debemos comprender acerca de la
 gracia es que es el poder de Dios--el obrar eficaz de Su vida y
 luz--el cual vino al mundo en la persona de un Hombre,
 y luego fue dado a todos los hombres como un don interior que hace
@@ -362,7 +369,7 @@ estaremos buscando en algo que no puede ayudarnos.
 Y es precisamente porque el hombre depende por completo de un poder como este,
 que viene de lo alto,
 que Pablo se mostró asombrado y alarmado de que los gálatas estuvieran
-"`alejándose del que los llamó por la gracia de Cristo,
+"`alejándose del que los llamó __por la gracia de Cristo,__
 para seguir un evangelio diferente`".^
 footnote:[Gálatas 1:6]
 Fue porque sabía que no había esperanza fuera de este poder
@@ -394,15 +401,20 @@ y a volverse _hacia_ Él, a buscarlo, a anhelarlo,
 a orar y a esperar una manifestación más plena de Su luz.
 Consideren las siguientes palabras de Pablo en su carta a Tito:
 
-Porque la gracia de Dios que trae salvación se ha manifestado a todos los hombres,
-enseñándonos que, renunciando a la impiedad y a las concupiscencias mundanas,
+[.embedded-content-document]
+--
+
+__Porque la gracia de Dios que trae salvación se ha manifestado
+a todos los hombres, [.underline]#enseñándonos# que, renunciando
+a la impiedad y a las concupiscencias mundanas,
 vivamos en este presente mundo, sobria, justa y piadosamente.
 Aguardando aquella esperanza bienaventurada,
 y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo,
 quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad,
-y purificar para sí un pueblo peculiar, celoso de buenas obras.
-^
+y purificar para sí un pueblo peculiar, celoso de buenas obras.__^
 footnote:[Tito 2:11-14 RVG]
+
+--
 
 Algunos predican una gracia que tolera la impiedad y pasa por alto los deseos mundanos.
 Pero la gracia que Pablo conocía enseñaba a renunciar
