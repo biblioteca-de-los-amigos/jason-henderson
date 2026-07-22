@@ -149,6 +149,8 @@ por haber muerto para aquella en que estábamos sujetos,
 de modo que sirvamos bajo el régimen nuevo del Espíritu
 y no bajo el régimen viejo de la letra.__
 
+--
+
 Pablo comienza afirmando que la ley se enseñorea, o tiene jurisdicción,^
 footnote:[Como lo tiene LBLA]
 sobre un hombre en tanto _este_ vive.
@@ -181,7 +183,7 @@ Mientras vivíamos en la carne,
 dice "`las pasiones pecaminosas que eran por la ley obraban
 en nuestros miembros llevando fruto para muerte.
 Pero ahora estamos libres de la ley...`" Y, ¿_cómo_ dice que somos liberados de la ley?
-"`..._por haber muerto para aquella en que estábamos sujetos,_
+"`...__por haber muerto para aquella en que estábamos sujetos,__
 de modo que sirvamos bajo el régimen nuevo del Espíritu
 y no bajo el régimen viejo de la letra`".^
 footnote:[Romanos 7:5-6]
