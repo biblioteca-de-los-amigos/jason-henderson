@@ -1,4 +1,4 @@
-== La Gracia Debe Reinar
+== La gracia debe reinar
 
 Desde mi propia y lamentable experiencia, sé que es muy fácil hablar de la gracia,
 cantar de la gracia, celebrar la gracia,
@@ -19,13 +19,18 @@ del placer y del reinado del pecado en el corazón. Pero
 esta es una gracia que las Escrituras no reconocen.
 Observen las palabras de Pablo en Romanos 5:
 
-Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores,
+[.embedded-content-document]
+--
+
+__Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores,
 así también por la obediencia de uno los muchos serán constituidos justos.
 Y la ley se introdujo para que abundara la transgresión, pero donde el pecado abundó,
-sobreabundó la gracia, para que así como el pecado reinó en la muerte,
-así también la gracia reine por medio de la justicia para vida eterna,
-mediante Jesucristo nuestro Señor.^
+sobreabundó la gracia, [.underline]#para que así como el pecado reinó en la muerte,
+así también la gracia reine por medio de la justicia# para vida eterna,
+mediante Jesucristo nuestro Señor.__^
 footnote:[Romanos 5:19-21 LBLA]
+
+--
 
 Pablo primero nos recuerda que "`la ley se introdujo para que abundara
 la transgresión`". El significado de esto debería quedar claro para nosotros
@@ -121,7 +126,7 @@ pero no yo, sino la gracia de Dios conmigo`". En 1 Timoteo 1:14 nos dice:
 Jesús`". Es evidente que la gracia de Dios estaba cambiando el corazón de Pablo,
 obrando poderosamente tanto en él como a través de él mientras permanecía en ella.
 Y aunque no todos somos llamados a ser apóstoles y profetas,
-todos somos llamados a caminar en la fe y el amor que son en Cristo
+_todos_ somos llamados a caminar en la fe y el amor que son en Cristo
 Jesús. Cada creyente es llamado a despojarse del viejo hombre,
 a ser renovado en el espíritu de nuestra mente, y a vestirse del nuevo hombre.
 Somos llamados a morir al yo, a ser crucificados al mundo, a caminar en el Espíritu,
@@ -160,17 +165,22 @@ la semilla de pecado halla cabida, comienza a crecer y gana inercia en la mente.
 Esto, repetido una y otra vez, incrementa su reino en el hombre hasta engendrar muerte.
 Consideren las palabras de Santiago en el capítulo 1:13-15.
 
-Cuando alguno es tentado, no diga que es tentado de parte de Dios;
+[.embedded-content-document]
+--
+
+__Cuando alguno es tentado, no diga que es tentado de parte de Dios;
 porque Dios no puede ser tentado por el mal, ni él tienta a nadie;
 sino que cada uno es tentado, cuando de su propia concupiscencia es atraído y seducido.
 Entonces la concupiscencia, después que ha concebido, da a luz el pecado; y el pecado,
-siendo consumado, da a luz la muerte.
+siendo consumado, da a luz la muerte.__
+
+--
 
 ¿Cuándo concibe el deseo y da a luz el pecado?
 De nuevo,
-cuando la voluntad del alma se une voluntariamente a él. El pecado es hijo de dos padres:
+cuando la voluntad del alma se une voluntariamente a él. El pecado es hijo de _dos_ padres:
 1) un pensamiento o deseo malo, y 2) la voluntad del hombre que consiente en ese deseo.
-Ser tentado no es pecado, ni tener nuestra atención atraída por pensamientos, deseos,
+Ser tentado _no_ es pecado, ni tener nuestra atención atraída por pensamientos, deseos,
 sugerencias de la carne, o mentiras del enemigo.
 Jesús mismo "`fue tentado en todo según nuestra semejanza, pero sin pecado`".^
 footnote:[Hebreos 4:15]
@@ -201,8 +211,8 @@ que la paga del pecado es muerte espiritual.
 Pero la razón por la que menciono estas cosas no es para glorificar el poder del pecado,
 sino para explicar y glorificar el poder de la gracia.
 Porque, otra vez, "`donde el pecado abundó, sobreabundó la gracia,
-para que así como el pecado reinó en la muerte,
-así también la gracia reine por medio de la justicia`".
+__para que así como el pecado reinó en la muerte,
+así también la gracia reine por medio de la justicia`".__
 La gracia también tiene una semilla en el hombre,
 una semilla sembrada en el corazón por Aquel que está "`lleno de gracia y de verdad`";^
 footnote:[Juan 1:14]
@@ -287,12 +297,12 @@ no se originan en el corazón del hombre caído. Son dones
 de la gracia que provienen del Padre de las luces,
 y son buenos y perfectos según su género.
 
-Si no fuera por la gracia, toda la humanidad estaría confinada a un solo nacimiento.
+Si no fuera por la gracia, toda la humanidad estaría confinada a _un solo nacimiento._
 De hecho, este es el estado de todos los demás seres terrenales.
 No quiero decir que todas las criaturas de este mundo vivan en pecado,
 o en una voluntad contraria a la de su Creador.
 Simplemente digo que todos los seres creados, excepto el hombre,
-experimentan una sola naturaleza.
+experimentan _una sola naturaleza._
 Una mula se contenta perfectamente con seguir siendo mula hasta
 el fin de sus días. Nunca siente convicciones por su terquedad,
 ni reprensiones internas por no compartir su avena.
@@ -313,8 +323,8 @@ la de Abraham, Lot, Israel, Rahab, etc.):
 una obra de gracia mediante la cual Dios entra en
 el hombre para introducir al hombre en Dios.
 Ver Deuteronomio 4:34:
-"`¿O ha intentado Dios alguna vez venir para tomar
-para sí una nación de en medio de otra nación,
+"`¿O ha intentado Dios alguna vez venir __para tomar
+para sí una nación de en medio de otra nación,__
 con pruebas, señales, milagros, guerra, mano poderosa y brazo extendido,
 y con grandes hechos aterradores,
 conforme a todas las cosas que Jehová vuestro Dios
@@ -364,7 +374,7 @@ aparte de una continua sujeción de nuestra voluntad a la guía del Espíritu?
 ¿Hay alguna manera de negarnos a nosotros mismos, tomar la cruz y seguir a Cristo,
 sin una diligente rendición de nuestra voluntad?
 Ciertamente no.
-Pues Pablo escribe enfáticamente a la iglesia en Roma:
+Pues Pablo escribe enfáticamente _a la iglesia_ en Roma:
 "`Porque si vivís conforme a la carne, moriréis;
 mas si por el Espíritu hacéis morir las obras de la carne,
 viviréis. Porque todos los que son guiados por el Espíritu de Dios,
@@ -385,7 +395,7 @@ pero para que un corazón experimente redención,
 para que un hombre "`crezca en la gracia y en el
 conocimiento de nuestro Señor y Salvador Jesucristo`",^
 footnote:[2 Pedro 3:18]
-debe renunciar al primer nacimiento ante cada aparición del segundo.
+__debe renunciar al primer nacimiento ante cada aparición del segundo.__
 Esto es presentarnos "`en sacrificio vivo`"; este es el "`culto racional`"^
 footnote:[Romanos 12:1]
 de los cristianos.
@@ -432,11 +442,16 @@ Ahora bien, la expresión "`bajo la gracia`" es una que Pablo emplea en Romanos,
 y que con frecuencia se malinterpreta.
 En Romanos 6:14 Pablo dice:
 
-Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley,
+[.embedded-content-document]
+--
+
+__Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley,
 sino bajo la gracia.
 ¿Qué, pues?
 ¿Pecaremos porque no estamos bajo la ley, sino bajo la gracia?
-¡En ninguna manera!
+¡En ninguna manera!__
+
+--
 
 Para comprender lo que Pablo quiere decir con _bajo_ la gracia,
 conviene preguntarse primero en qué sentido estaba Israel _bajo_ la ley.
@@ -464,17 +479,23 @@ también al hombre exterior.
 Leamos un poco más de este pasaje en Romanos para comprender
 mejor el contexto de esta afirmación. Pablo escribe:
 
-Porque el pecado no tendrá dominio sobre vosotros,
+[.embedded-content-document]
+--
+
+__Porque el pecado no tendrá dominio sobre vosotros,
 pues no estáis bajo la ley sino bajo la gracia.¿Entonces
 qué? ¿Pecaremos porque no estamos bajo la ley,
 sino bajo la gracia?
-¡De ningún modo! ¿No sabéis que cuando os presentáis a alguno como esclavos para obedecerle,
-sois esclavos de aquel a quien obedecéis, ya sea del pecado para muerte,
+¡De ningún modo! [.underline]#¿No sabéis que cuando os presentáis a alguno
+como esclavos para obedecerle,
+sois esclavos de aquel a quien obedecéis,# ya sea del pecado para muerte,
 o de la obediencia para justicia?
-Pero gracias a Dios, que aunque erais esclavos del pecado,
-os hicisteis obedientes de corazón a aquella forma de enseñanza a la que fuisteis entregados;
-y habiendo sido libertados del pecado, os habéis hecho siervos de la justicia.^
+Pero gracias a Dios, que aunque erais esclavos del pecado, [.underline]#os hicisteis
+obedientes de corazón a aquella forma de enseñanza a la que fuisteis entregados;#
+y habiendo sido libertados del pecado, os habéis hecho siervos de la justicia.__^
 footnote:[Romanos 6:14-18 LBLA]
+
+--
 
 En otras palabras: "`Ustedes ya no están obligados a ser esclavos del pecado,
 porque ya no están bajo el dominio de un mandamiento externo,
@@ -502,14 +523,20 @@ footnote:[Hebreos 4:16]
 para abundar más y más en este don bueno y perfecto.
 Y tomemos en serio el siguiente consejo de Pedro:
 
-Por tanto, ceñid los lomos de vuestro entendimiento, sed sobrios,
-y esperad por completo en la gracia que se os traerá cuando Jesucristo sea manifestado;
+[.embedded-content-document]
+--
+
+__Por tanto, ceñid los lomos de vuestro entendimiento, sed sobrios,
+y [.underline]#esperad por completo en la gracia que se os traerá
+cuando Jesucristo sea manifestado;#
 como hijos obedientes,
 no os conforméis a los deseos que antes teníais estando en vuestra ignorancia; sino,
 como aquel que os llamó es santo,
 sed también vosotros santos en toda vuestra manera de vivir; porque escrito está:
-Sed santos, porque yo soy santo.^
+Sed santos, porque yo soy santo.__^
 footnote:[1 Pedro 1:13-16]
+
+--
 
 === ¿Gracia Irresistible?
 
@@ -521,20 +548,18 @@ comúnmente asociada con Juan Calvino y sus seguidores.^
 footnote:[Aunque, para ser justos,
 las afirmaciones más categóricas de esta doctrina fueron
 hechas por los sucesores e intérpretes de Calvino,
-y no por el propio Calvino.
-{footnote-paragraph-split}
-]
-Según los calvinistas, hay dos tipos de gracia: la común y la salvadora.
+y no por el propio Calvino.]
+Según los calvinistas, hay dos tipos de gracia: _la común y la salvadora._
 La gracia común es dada a todos los hombres, y es aquella que sustenta la vida,
 frena cierta medida de corrupción y mal, y permite que la sociedad humana funcione.
 La gracia salvadora, por otro lado,
 es considerada un poder imparable concedido únicamente a los elegidos,
 que no solo ofrece salvación,
 sino que efectivamente la lleva a cabo--produciendo
-irresistiblemente en el hombre el arrepentimiento,
+_irresistiblemente_ en el hombre el arrepentimiento,
 la fe y, finalmente, la unión con Cristo.
 Sin embargo,
-no solo no se menciona en las Escrituras semejante distinción entre dos tipos de gracia,
+no solo no se menciona en las Escrituras semejante distinción entre dos _tipos_ de gracia,
 sino que la idea misma de una gracia irresistible está en desacuerdo tanto con el claro
 testimonio de la Biblia como con la innegable experiencia de toda alma humana.
 
@@ -584,8 +609,8 @@ a no recibir la gracia de Dios en vano.
 No insistiré más sobre este punto.
 Solo deseo que mis lectores reconozcan lo que creo
 que no pueden evitar sentir en sus propios corazones:
-que el poder de Dios no obra contra la voluntad del hombre.
-La gracia redarguye, convence, invita, da poder, y luego transforma el corazón dispuesto.
+que el poder de Dios no obra _contra_ la voluntad del hombre.
+La gracia redarguye, convence, invita, da poder, y luego transforma el corazón _dispuesto._
 Dios ofrece todo lo que es y todo lo que tiene a
 todo aquel que tiene hambre y sed de vida eterna.
 Pero desde el mismo principio,
